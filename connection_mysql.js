@@ -1,7 +1,7 @@
 const mysql = require('mysql');
 
 const config = {
-    host: 'https://remotemysql.com',
+    host: '37.59.55.185',
     user: 'cI1YY54LP2',
     password: 'Kmq7LXI0QL',
     database: 'cI1YY54LP2'
